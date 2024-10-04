@@ -1,4 +1,4 @@
-using ApexCare.BusinessLogic.Communication.Interfaces;
+using ApexCare.Services.Communication.Interfaces;
 
 namespace ApexCare.BusinessLogic.Communication{
     public class PhoneCommunication : ICommunication{
@@ -6,7 +6,7 @@ namespace ApexCare.BusinessLogic.Communication{
         public PhoneCommunication(){
             Messages = [];
         }
-            public void promptInfo(){
+            public void PromptInfo(){
             string[] messages = {};
             int iterations = -1;
             while (true){
@@ -17,9 +17,9 @@ namespace ApexCare.BusinessLogic.Communication{
                     break;
                 }
             }
-            submitInfo(messages);
+            SubmitInfo(messages);
         }
-        public void submitInfo(string[] messages){
+        public void SubmitInfo(string[] messages){
             this.Messages = messages;
             System.Console.WriteLine("Phone Message: " + string.Join(", ", messages));
             //Call ReportBuilder

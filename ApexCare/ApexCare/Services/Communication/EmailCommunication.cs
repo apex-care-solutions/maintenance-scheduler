@@ -1,4 +1,4 @@
-using ApexCare.BusinessLogic.Communication.Interfaces;
+using ApexCare.Services.Communication.Interfaces;
 
 namespace ApexCare.BusinessLogic.Communication{
     public class EmailCommunication : ICommunication{
@@ -6,10 +6,10 @@ namespace ApexCare.BusinessLogic.Communication{
         public EmailCommunication(){
             Message = new string[] {};
         }
-        public void promptInfo(){
+        public void PromptInfo(){
             System.Console.WriteLine("Prompting the user...");
         }
-        public void submitInfo(string[] message){
+        public void SubmitInfo(string[] message){
             this.Message = message;
             System.Console.WriteLine("Email Message: " + string.Join(", ", message));
         }

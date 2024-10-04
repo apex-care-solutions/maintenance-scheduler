@@ -10,9 +10,9 @@ namespace ApexCare.BusinessLogic.Services
 {
     public class TechnicianService
     {
-        private readonly IRepository<Technician> TechnicianRepository;
+        private readonly Repository<Technician> TechnicianRepository;
 
-        public TechnicianService(IRepository<Technician> TechnicianRepository){
+        public TechnicianService(Repository<Technician> TechnicianRepository){
             this.TechnicianRepository = TechnicianRepository;
         }
         public async Task<Technician> GetTechniciansAsync(){

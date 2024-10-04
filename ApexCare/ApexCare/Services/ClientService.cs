@@ -4,9 +4,9 @@ using ApexCare.Repositories;
 
 namespace ApexCare.Services{
     public class ClientService{
-        private readonly IRepository<Client> clientRepository;
+        private readonly Repository<Client> clientRepository;
 
-        public ClientService(IRepository<Client> clientRepository){
+        public ClientService(Repository<Client> clientRepository){
             this.clientRepository = clientRepository;
         }
 

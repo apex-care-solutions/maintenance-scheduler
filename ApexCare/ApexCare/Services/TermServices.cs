@@ -10,9 +10,9 @@ namespace ApexCare.BusinessLogic.Services
 {
     public class TermServices
     {
-        private readonly IRepository<Term> termRepository;
+        private readonly Repository<Term> termRepository;
 
-        public TermServices(IRepository<Term> termRepository){
+        public TermServices(Repository<Term> termRepository){
             this.termRepository = termRepository;
         }
         public async Task<Term> GetTermsAsync(){

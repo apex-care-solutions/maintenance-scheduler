@@ -10,9 +10,9 @@ namespace ApexCare.BusinessLogic.Services
 {
     public class ReviewService
     {
-        private readonly IRepository<Review> ReviewRepository;
+        private readonly Repository<Review> ReviewRepository;
 
-        public ReviewService(IRepository<Review> ReviewRepository){
+        public ReviewService(Repository<Review> ReviewRepository){
             this.ReviewRepository = ReviewRepository;
         }
         public async Task<Review> GetReviewsAsync(){

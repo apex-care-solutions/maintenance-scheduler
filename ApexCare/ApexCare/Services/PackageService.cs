@@ -10,9 +10,9 @@ namespace ApexCare.BusinessLogic.Services
 {
     public class PackageService
     {
-        private readonly IRepository<Package> packageRepository;
+        private readonly Repository<Package> packageRepository;
 
-        public PackageService(IRepository<Package> packageRepository){
+        public PackageService(Repository<Package> packageRepository){
             this.packageRepository = packageRepository;
         }
         public async Task<Package> GetPackagesAsync(){

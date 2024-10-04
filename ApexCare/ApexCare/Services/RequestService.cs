@@ -10,9 +10,9 @@ namespace ApexCare.BusinessLogic.Services
 {
     public class RequestService
     {
-        private readonly IRepository<Request> requestRepository;
+        private readonly Repository<Request> requestRepository;
 
-        public RequestService(IRepository<Request> requestRepository){
+        public RequestService(Repository<Request> requestRepository){
             this.requestRepository = requestRepository;
         }
         public static Request RequestBuilder(string[] messages){

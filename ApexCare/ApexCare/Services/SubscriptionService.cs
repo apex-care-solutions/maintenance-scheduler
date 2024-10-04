@@ -10,9 +10,9 @@ namespace ApexCare.BusinessLogic.Services
 {
     public class SubscriptionService
     {
-        private readonly IRepository<Subscription> SubscriptionRepository;
+        private readonly Repository<Subscription> SubscriptionRepository;
 
-        public SubscriptionService(IRepository<Subscription> SubscriptionRepository){
+        public SubscriptionService(Repository<Subscription> SubscriptionRepository){
             this.SubscriptionRepository = SubscriptionRepository;
         }
         public async Task<Subscription> GetSubscriptionsAsync(){

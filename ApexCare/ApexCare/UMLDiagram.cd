@@ -145,7 +145,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="ApexCare.BusinessLogic.Communication.EmailCommunication" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="24.5" Y="0.5" Width="1.5" />
+    <Position X="3.75" Y="13" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
       <FileName>Services\Communication\EmailCommunication.cs</FileName>
@@ -153,7 +153,7 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="ApexCare.BusinessLogic.Communication.PhoneCommunication" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="24.5" Y="1.5" Width="1.5" />
+    <Position X="3.75" Y="14" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
       <FileName>Services\Communication\PhoneCommunication.cs</FileName>
@@ -171,7 +171,7 @@
     </ShowAsAssociation>
   </Class>
   <Class Name="ApexCare.BusinessLogic.Services.PackageService" Collapsed="true">
-    <Position X="22.75" Y="1.5" Width="1.5" />
+    <Position X="2" Y="14" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAABAAAABCAAAAAAAAQAAQAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Services\PackageService.cs</FileName>
@@ -239,7 +239,7 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="ApexCare.Data.AppDbContextFactory" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="22.75" Y="0.5" Width="1.5" />
+    <Position X="2" Y="13" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
       <FileName>Data\AppDbContextFactory.cs</FileName>
@@ -252,14 +252,14 @@
     <Lollipop Position="0.2" />
   </Class>
   <Interface Name="ApexCare.Services.Communication.Interfaces.ICommunication" Collapsed="true">
-    <Position X="22.75" Y="2.75" Width="1.5" />
+    <Position X="2" Y="15.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Services\Communication\Interfaces\ICommunication.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="ApexCare.Repositories.IRepository&lt;T&gt;" Collapsed="true">
-    <Position X="24.5" Y="2.75" Width="1.5" />
+    <Position X="3.75" Y="15.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAIIAAAIA=</HashCode>
       <FileName>Repositories\IRepository.cs</FileName>

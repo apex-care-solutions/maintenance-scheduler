@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApexCare.Models.Client">
+    <Position X="13.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACIAAAAAAAAAQAAAAAAAAAAAAAAEABAAAAg=</HashCode>
+      <FileName>Models\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApexCare.Models.Job">
+    <Position X="10.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAQAAAAAAAAAAAAAgAAIAACAAAACAAQ=</HashCode>
+      <FileName>Models\Job.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Request" />
+      <Property Name="Technician" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ApexCare.Models.JobStatus">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAEAAAABACAAAAAAACAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Models\JobStatus.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Job" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ApexCare.Models.Package">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAgAAAAEgAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAA=</HashCode>
+      <FileName>Models\Package.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApexCare.Models.PackagePromotion">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAQAAAAAAAAACAEAiAAAAAAAAA=</HashCode>
+      <FileName>Models\PackagePromotion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Package" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ApexCare.Models.PackageService">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAAAACAAAAAAAAQAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PackageService.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Package" />
+      <Property Name="Service" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ApexCare.Models.Request">
+    <Position X="13.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQEAEMAAAAAAAAAQAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>Models\Request.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Client" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ApexCare.Models.RequestMessage">
+    <Position X="16.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAQAAAAAAAAAABAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\RequestMessage.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Request" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ApexCare.Models.Review">
+    <Position X="10.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAACAAAAABACAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Review.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Job" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ApexCare.Models.Service">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApexCare.Models.Skill">
+    <Position X="1.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAABAAAAAAAAAQAAAEAAAAA=</HashCode>
+      <FileName>Models\Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApexCare.Models.Subscription">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAEIAAAAAAAAQAAACAAAAAAAAEAAQAAAAAAQ=</HashCode>
+      <FileName>Models\Subscription.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Client" />
+      <Property Name="Package" />
+      <Property Name="Term" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ApexCare.Models.Technician">
+    <Position X="7.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAEIAAAAAAAAAAAAAAAAAJEAAAAw=</HashCode>
+      <FileName>Models\Technician.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApexCare.Models.TechnicianSkill">
+    <Position X="4.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAECAAQ=</HashCode>
+      <FileName>Models\TechnicianSkill.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Skill" />
+      <Property Name="Technician" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ApexCare.Models.Term">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAABAAAAAAAAEAAAAAgA=</HashCode>
+      <FileName>Models\Term.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApexCare.Data.AppDbContext">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAACEAAAAEAAYAAAGEAAAAAEAAAAAAoAAAEAFAAAAA=</HashCode>
+      <FileName>Data\AppDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

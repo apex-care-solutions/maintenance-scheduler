@@ -1,0 +1,14 @@
+﻿@page "/login"
+
+<h3>@clicked</h3>
+<button @onclick="IncrementCount">Inc</button>
+
+@code {
+    private int clicked = 0;
+
+    private void IncrementCount()
+    {
+        clicked++;
+        StateHasChanged(); // Forces the component to re-render
+    }
+}

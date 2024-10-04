@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\apexcare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\apexcare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\requestmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\requestmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\packagepromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\packagepromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\umldiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\umldiagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\apexcare.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\apexcare.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\models\\technicianskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\models\\technicianskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|c:\\users\\andre\\documents\\projects\\maintenance-scheduler\\apexcare\\apexcare\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4F7686-61EE-4EAE-ABED-5BE9D3DC1703}|ApexCare\\ApexCare.csproj|solutionrelative:apexcare\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApexCare",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\ApexCare.csproj",
+              "RelativeDocumentMoniker": "ApexCare\\ApexCare.csproj",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\ApexCare.csproj",
+              "RelativeToolTip": "ApexCare\\ApexCare.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T14:46:21.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "ApexCare\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:54:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\appsettings.json",
+              "RelativeDocumentMoniker": "ApexCare\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\appsettings.json",
+              "RelativeToolTip": "ApexCare\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T15:29:53.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UMLDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\UMLDiagram.cd",
+              "RelativeDocumentMoniker": "ApexCare\\UMLDiagram.cd",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\UMLDiagram.cd",
+              "RelativeToolTip": "ApexCare\\UMLDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-04T14:52:31.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApexCare",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\ApexCare.csproj",
+              "RelativeDocumentMoniker": "ApexCare\\ApexCare.csproj",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\ApexCare.csproj",
+              "RelativeToolTip": "ApexCare\\ApexCare.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T14:48:43.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Client.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:59:08.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Term.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Term.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Term.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Term.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Term.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:07:17.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Program.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Program.cs",
+              "RelativeToolTip": "ApexCare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:32:12.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ApexCare\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:51:02.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PackagePromotion.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\PackagePromotion.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\PackagePromotion.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\PackagePromotion.cs",
+              "RelativeToolTip": "ApexCare\\Models\\PackagePromotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:07:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestMessage.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\RequestMessage.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\RequestMessage.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\RequestMessage.cs",
+              "RelativeToolTip": "ApexCare\\Models\\RequestMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:06:49.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Review.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:06:39.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Technician.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Technician.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Technician.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Technician.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Technician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:00:32.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Skill.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:06:12.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Service.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:07:50.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PackageService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\PackageService.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\PackageService.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\PackageService.cs",
+              "RelativeToolTip": "ApexCare\\Models\\PackageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:08:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Request.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:00:21.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Package.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Package.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Package.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:06:58.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Subscription.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Subscription.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:07:07.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobStatus.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\JobStatus.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\JobStatus.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\JobStatus.cs",
+              "RelativeToolTip": "ApexCare\\Models\\JobStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:06:26.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\Job.cs",
+              "RelativeToolTip": "ApexCare\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:06:19.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TechnicianSkill.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\TechnicianSkill.cs",
+              "RelativeDocumentMoniker": "ApexCare\\Models\\TechnicianSkill.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Models\\TechnicianSkill.cs",
+              "RelativeToolTip": "ApexCare\\Models\\TechnicianSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:06:04.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "ApexCare\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:43:47.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "ApexCare\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:43:44.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ApexCare\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:43:43.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\App.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\App.razor",
+              "RelativeToolTip": "ApexCare\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:43:22.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\_Imports.razor",
+              "RelativeToolTip": "ApexCare\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:43:40.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Routes.razor",
+              "RelativeToolTip": "ApexCare\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:43:22.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "ApexCare\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:42:48.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "ApexCare\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:35:30.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ApexCare\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:35:09.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ApexCare\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ApexCare\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:34:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApexCare\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andre\\Documents\\projects\\maintenance-scheduler\\ApexCare\\ApexCare\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApexCare\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T21:31:21.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

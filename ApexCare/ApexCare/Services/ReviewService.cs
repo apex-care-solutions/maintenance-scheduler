@@ -16,27 +16,27 @@ namespace ApexCare.BusinessLogic.Services
             this.ReviewRepository = ReviewRepository;
         }
         public async Task<Review> GetReviewsAsync(){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Review[]> GetReviewsAsync(Expression<Func<Review, bool>>? filter = null){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Review> CreateReviewAsync(Review Reviews){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Review[]> CreateReviewsAsync(Review[] Reviews){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Review> UpdateReviewAsync(Review Reviews){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Review[]> UpdateReviewsAsync(Review[] Reviews){
-            return null;
+            throw new NotImplementedException();
         }
     }
 }

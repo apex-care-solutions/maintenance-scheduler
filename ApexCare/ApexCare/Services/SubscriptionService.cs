@@ -16,27 +16,27 @@ namespace ApexCare.BusinessLogic.Services
             this.SubscriptionRepository = SubscriptionRepository;
         }
         public async Task<Subscription> GetSubscriptionsAsync(){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Subscription[]> GetSubscriptionsAsync(Expression<Func<Subscription, bool>>? filter = null){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Subscription> CreateSubscriptionAsync(Subscription Subscriptions){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Subscription[]> CreateSubscriptionsAsync(Subscription[] Subscriptions){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Subscription> UpdateSubscriptionAsync(Subscription Subscriptions){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Subscription[]> UpdateSubscriptionsAsync(Subscription[] Subscriptions){
-            return null;
+            throw new NotImplementedException();
         }
     }
 }

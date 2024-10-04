@@ -16,31 +16,31 @@ namespace ApexCare.BusinessLogic.Services
             this.requestRepository = requestRepository;
         }
         public static Request RequestBuilder(string[] messages){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request> GetRequestsAsync(){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request> GetRequestAsync(Expression<Func<Request, bool>>? filter = null){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request> CreateRequestAsync(Request request){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request[]> CreateRequestsAsync(Request[] requests){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request> UpdateRequestAsync(Request request){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request[]> UpdateRequestsAsync(Request[] requests){
-            return null;
+            throw new NotImplementedException();
         }
     }
 }

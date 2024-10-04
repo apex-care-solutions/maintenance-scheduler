@@ -16,27 +16,27 @@ namespace ApexCare.BusinessLogic.Services
             this.termRepository = termRepository;
         }
         public async Task<Term> GetTermsAsync(){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Term[]> GetTermsAsync(Expression<Func<Term, bool>>? filter = null){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Term> CreateTermAsync(Term Terms){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Term[]> CreateTermsAsync(Term[] Terms){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Term> UpdateTermAsync(Term Terms){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Term[]> UpdateTermsAsync(Term[] Terms){
-            return null;
+            throw new NotImplementedException();
         }
     }
 }

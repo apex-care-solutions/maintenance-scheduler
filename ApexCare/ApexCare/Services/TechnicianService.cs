@@ -16,27 +16,27 @@ namespace ApexCare.BusinessLogic.Services
             this.TechnicianRepository = TechnicianRepository;
         }
         public async Task<Technician> GetTechniciansAsync(){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Technician[]> GetTechniciansAsync(Expression<Func<Technician, bool>>? filter = null){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Technician> CreateTechnicianAsync(Technician Technicians){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Technician[]> CreateTechniciansAsync(Technician[] Technicians){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Technician> UpdateTechnicianAsync(Technician Technicians){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Technician[]> UpdateTechniciansAsync(Technician[] Technicians){
-            return null;
+            throw new NotImplementedException();
         }
     }
 }

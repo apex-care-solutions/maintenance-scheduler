@@ -11,23 +11,23 @@ namespace ApexCare.Services{
         }
 
         public async Task<Request> GetClientsAsync(Expression<Func<Client, bool>>? filter = null){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request> CreateClientAsync(Request request){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request[]> CreateClientsAsync(Request[] requests){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request> UpdateClientAsync(Request request){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Request[]> UpdateClientsAsync(Request[] requests){
-            return null;
+            throw new NotImplementedException();
         }
     }
 }

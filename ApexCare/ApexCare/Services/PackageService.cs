@@ -16,27 +16,27 @@ namespace ApexCare.BusinessLogic.Services
             this.packageRepository = packageRepository;
         }
         public async Task<Package> GetPackagesAsync(){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Package[]> GetPackagesAsync(Expression<Func<Package, bool>>? filter = null){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Package> CreatePackageAsync(Package packages){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Package[]> CreatePackagesAsync(Package[] packages){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Package> UpdatePackageAsync(Package packages){
-            return null;
+            throw new NotImplementedException();
         }
 
         public async Task<Package[]> UpdatePackagesAsync(Package[] packages){
-            return null;
+            throw new NotImplementedException();
         }
     }
 }
